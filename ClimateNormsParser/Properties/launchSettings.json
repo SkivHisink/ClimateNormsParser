@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ClimateNormsParser": {
+      "commandName": "Project",
+      "commandLineArgs": "parse 1659 1961-1990"
+    }
+  }
+}
